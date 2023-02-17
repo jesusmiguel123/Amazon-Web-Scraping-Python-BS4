@@ -2,9 +2,9 @@
 Web Scraping to Amazon web with Beautiful Soup 4
 
 Python Libraries used:
-- Beautiful Soup 4
-- requests
-- pandas 
+- `Beautiful Soup 4`
+- `requests`
+- `pandas` 
 
 The result is saved in a `csv` file. To do this Pandas was used.
 
